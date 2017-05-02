@@ -1,0 +1,69 @@
+h4  {
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	text-align: center;
+}
+
+h1  {
+	font-family: Comic Sans MS;
+	font-size: 80px;
+	text-align: center;
+}
+
+p  {
+	font-family: Comic Sans MS;
+	font-size: 18px;
+	color: rgb(255,69,0);
+	text-align: center;
+}
+
+h4  {
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	text-align: center;
+}
+
+a  {
+	font-family: Comic Sans MS;
+}
+
+.button  {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.back {
+	position: relative;
+	padding-top: 15px;
+	padding-bottom: 50px;
+	background: url(Cat.jpg);
+}
+
+.img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 50%;
+	border-radius: 20px;
+	border: solid 2px #fff;
+}
+
+.radius-box1{
+	width: 50%;
+	background: white;
+	border-radius: 20px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border: solid 2px #000;
+}
+
+.radius-box2{
+	width: 600px;
+	height: 60px;
+	background: white;
+	border-radius: 20px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border: solid 2px #000;
